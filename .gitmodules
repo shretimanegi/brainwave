@@ -1,0 +1,3 @@
+[submodule "frontend-forecash"]
+	path = frontend-forecash
+	url = https://github.com/manasvi2909/frontend-forecash.git
